@@ -1,6 +1,4 @@
-# Project Title
-
-A brief description of the project.
+# CosmoCloud Task
 
 ## Table of Contents
 
